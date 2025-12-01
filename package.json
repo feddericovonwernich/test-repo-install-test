@@ -1,0 +1,12 @@
+{
+  "name": "test-repo-install-test",
+  "version": "1.0.0",
+  "description": "Test repository for scorecards installation workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "bash tests/test.sh"
+  },
+  "keywords": ["test", "scorecards"],
+  "author": "Test Team",
+  "license": "MIT"
+}
