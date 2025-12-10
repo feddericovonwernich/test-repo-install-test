@@ -1,0 +1,5 @@
+service:
+  name: "test-repo-install-test"
+  team: ""
+  description: ""
+  links: []
